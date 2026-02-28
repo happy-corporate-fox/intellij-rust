@@ -51,7 +51,7 @@ plugins {
     id("org.jetbrains.intellij") version "1.16.1"
     id("org.jetbrains.grammarkit") version "2023.3.0.1"
     id("net.saliman.properties") version "1.6.0"
-    id("org.gradle.test-retry") version "1.5.3"
+    id("org.gradle.test-retry") version "1.6.4"
 }
 
 idea {
